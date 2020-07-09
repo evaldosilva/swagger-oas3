@@ -1,0 +1,11 @@
+﻿
+<!-- Here you can put some css to stylish the swagger default page -->
+
+.swagger-ui .topbar {
+    background-color: #000000;
+    border-bottom: 3px solid #ff0000;
+}
+
+body {
+    background-color: #ffdada;
+}
